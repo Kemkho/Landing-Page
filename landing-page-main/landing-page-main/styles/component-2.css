@@ -1,0 +1,41 @@
+.component-2 ul {
+    margin-top: 34.5px;
+    margin-left: 200px;
+}
+.component-2 li {
+    list-style: none;
+    font-family: 'DM-sans';
+    font-size: 18px;
+    color: rgba(79, 156, 249, 1);
+    margin-right: 41px;
+
+}
+
+.component-2 li img {
+    align-items: center;
+    margin-left: 10px;
+}
+
+.login {
+    background-color: rgba(255, 228, 146, 1);
+    color: rgba(4, 56, 115, 1);
+    font-size: 18px;
+    font-family: 'Inter-medium';
+    padding: 18.5px 40px;
+    border: none;
+    border-radius: 8px;
+    margin: 16px 24px;
+}
+
+.whitepace {
+    background-color: rgba(79, 156, 249, 1);
+    padding: 18.5px 25px 18.5px 24px;
+    font-size: 18px;
+    color: white;
+    font-family: 'Inter-medium';
+    border: none;
+    border-radius: 8px;
+}
+.whitepace img {
+    margin-left: 15px;
+}
