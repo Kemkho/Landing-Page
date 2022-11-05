@@ -1,0 +1,25 @@
+.component-1 {
+    width: 191px;
+    height: 34px;
+    margin-top: 31.5px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.component-1>img {
+    width: 37px;
+    height: 29px;
+    margin-right: 10px;
+    
+}
+
+
+.component-1>h1 {
+    font-size: 28px;
+    font-family: 'Inter-bold';
+    color: rgba(79, 156, 249, 1);
+    text-align: center;
+
+}
+

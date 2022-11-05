@@ -1,0 +1,33 @@
+.text-and-button {
+    width: 600px;
+    height: 361px;
+    margin-top: 234px;
+    margin-bottom: 140px;
+    
+}
+
+.component-3 h1{
+    font-size: 60px;
+    font-family: 'Inter-bold';
+    color: rgba(79, 156, 249, 1);
+  
+}
+
+.component-3 p {
+    font-size: 16px;
+    font-family: 'Inter-regular';
+    color: rgba(79, 156, 249, 1);
+    margin-top: 24px;
+    line-height: 30px;
+}
+
+.text-and-button>button {
+    margin-top: 60px;
+}
+
+.rect {
+    width: 755px;
+    height: 500px;
+    background-color: rgba(196, 222, 253, 1);
+    margin-top: 140px ;
+}
